@@ -1,0 +1,9 @@
+/build
+/dist
+test.py
+py_tzone/__pycache__/__init__.cpython-38.pyc
+py_tzone/__pycache__/tz_info.cpython-38.pyc
+py_tzone.egg-info/dependency_links.txt
+py_tzone.egg-info/PKG-INFO
+py_tzone.egg-info/top_level.txt
+py_tzone.egg-info/SOURCES.txt
