@@ -10,7 +10,6 @@ If you are installing using ```pip```, you don’t need to download anything as 
 
 ```
 pip install py-tzone
-
 ```
 # Example & Usage
 
