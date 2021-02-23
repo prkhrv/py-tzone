@@ -32,7 +32,7 @@ print(tz_details)
   'utc':['Arctic/Longyearbyen', 'Europe/Amsterdam', 'Europe/Andorra', 'Europe/Berlin',
         'Europe/Busingen', 'Europe/Gibraltar', 'Europe/Luxembourg','Europe/Malta','Europe/Monaco', 
         'Europe/Oslo', 'Europe/Rome', 'Europe/San_Marino',                                               
-        'Europe/Stockholm', 'Europe/Vaduz', 'Europe/Vatican', 'Europe/Vienna','Europ/Zurich']
+        'Europe/Stockholm', 'Europe/Vaduz', 'Europe/Vatican', 'Europe/Vienna','Europe/Zurich']
  }
 ```
 
